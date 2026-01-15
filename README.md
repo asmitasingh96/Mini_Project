@@ -1,1 +1,1 @@
-# Mini_Project
+# Mini_Project (Business Management System)
